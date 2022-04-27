@@ -11,3 +11,6 @@ brew install --cask clipy
 brew install --cask zoom
 brew install --cask google-chrome
 brew install --cask xcodes
+brew install android-studio
+brew tap dart-lang/dart
+brew install dart
